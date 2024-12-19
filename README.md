@@ -12,21 +12,24 @@ A Flutter application that predicts nationality based on names using the [Nation
 
 ## Screenshots
 
-![App Screenshot](https://github.com/JaveedIshaq/nationality-predictor-flutter/raw/main/screenshots/Screenshot_1734602814.png)
+![App Screenshot](https://raw.githubusercontent.com/JaveedIshaq/nationality-predictor-flutter/refs/heads/main/Screenshot_1734602814.png)
 
 ## Getting Started
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/JaveedIshaq/nationality-predictor-flutter.git
 ```
 
 2. Install dependencies:
+
 ```bash
 flutter pub get
 ```
 
 3. Run the app:
+
 ```bash
 flutter run
 ```
