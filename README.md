@@ -12,7 +12,7 @@ A Flutter application that predicts nationality based on names using the [Nation
 
 ## Screenshots
 
-[Add screenshots here]
+![App Screenshot](https://github.com/JaveedIshaq/nationality-predictor-flutter/raw/main/screenshots/Screenshot_1734602814.png)
 
 ## Getting Started
 
